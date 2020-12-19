@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="heading">📚 Book Recomendation App</h1>
+      <h1 className="heading">📚 Book Recommendation App</h1>
       <p className="para">Love Reading? Get started with some amazing Recomendation.Select any of the given Genre!
       </p>
       <div className="button-div">
